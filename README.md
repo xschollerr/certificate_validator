@@ -87,8 +87,8 @@ Sinta-se à vontade para enviar issues e solicitações de melhorias!
 
 ## Licença
 
-[Sua licença escolhida]
+Este projeto está sob a licença MIT.
 
 ## Autor
 
-[Seu nome/organização]
+xscholler - since 2000-2024
